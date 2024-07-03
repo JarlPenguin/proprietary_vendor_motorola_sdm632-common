@@ -667,7 +667,6 @@ PRODUCT_PACKAGES += \
     MotoSignatureApp \
     CneApp \
     TimeService \
-    MotCamera2 \
     QtiTelephonyService \
     ims \
     qcrilmsgtunnel \
